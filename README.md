@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @rishikumr (Rish)
-- 👀 I’m interested in Android app development and In general Programming.
-- 🌱 I’m currently learning Java, Android, Data Structures, Java Backened etc
+- 👋 Hi, I’m @rishikumr
+- 👀 I’m interested in general about world, programming,science and nature.
+- 🌱 I’m growing in working in java, kotlin and android application development. I intend to write a beautiful & clean code.
 - 💞️ I’m looking to collaborate on any interesting projects.
 - 📫 How to reach me mail me at rishitonight@gmail.com
 
