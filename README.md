@@ -6,6 +6,8 @@
 - You find my resume here : https://www.canva.com/design/DAFa0q1h3ME/BQPXHqaKruTkw7MYJdnmyw/view 
 - Portfolio : https://rishikumar.webflow.io/
 - Work account : https://github.com/rishikrYML
+- ![image](https://github.com/rishikumr/rishikumr/assets/31123825/e1f6a4b9-cb1a-4b15-87d3-0cea5a838a99)
+
 <!---
 rishikumr/rishikumr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
